@@ -21,7 +21,7 @@ If you choose any other IDE, you may delete this folder.
 
 
 
-## Step II - setup
+## Setup
 * clone the project
 ```
 git clone git@github.com:udidg/tsExpress.git

@@ -1,0 +1,20 @@
+{
+  "name": "hampback",
+  "version": "1.0.0",
+  "description": "a new experimental tool for node and typescript",
+  "scripts": {
+    "test": "test",
+    "start": "node ./out/www.js"
+  },
+  "keywords": [
+    "hampback"
+  ],
+  "author": "udid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.11.0"
+  }
+}
